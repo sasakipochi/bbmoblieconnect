@@ -14,6 +14,7 @@ connect bbmobile with Watir
   userid = "***userid***@wig"  
   passwd = "***passwd***"
 
-3. bbmobileconnect.rb を実行
+3. WEPキーを登録、WEPでbbmobilepointに接続する。
 
+4. bbmobileconnect.rb を実行して、WEB認証を行なう。
 
